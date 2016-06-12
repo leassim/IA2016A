@@ -1,0 +1,11 @@
+﻿  Graph.cpp
+c:\users\misael lopez\desktop\caliz\ia2016b graph\graphlib\graph.cpp(103): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\misael lopez\desktop\caliz\ia2016b graph\graphlib\graph.cpp(110): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\misael lopez\desktop\caliz\ia2016b graph\graphlib\graph.cpp(111): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Generando código...
+  Omitiendo... (no se detectaron cambios relevantes)
+  Vertex.cpp
+  Search.cpp
+  GraphManager.cpp
+LINK : warning LNK4068: no se especific¾ /MACHINE; estableciendo X86 como predeterminado
+  GraphLib.vcxproj -> C:\Users\misael lopez\Desktop\caliz\IA2016B Graph\Debug\GraphLib.lib

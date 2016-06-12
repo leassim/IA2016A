@@ -1,0 +1,9 @@
+Modificaciones
+
+Graph1.txt 
+	Cambiar el nodo 1 a Log
+
+GraphLab.cpp
+	Agregar la variable vLog **linea : 153
+	Llenar variable vLog con una condicion **linea: 204
+	Modificar el nodo log **linea: 482

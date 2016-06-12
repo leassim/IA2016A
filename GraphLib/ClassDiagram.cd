@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CEdge">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAQAAAAAABAIAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Edge.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGraph">
+    <Position X="4" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACgAAJBAgSAAAABAZAAQAAAAAAAAABAgAAAAAA=</HashCode>
+      <FileName>Graph.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGraphManager">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAkBAAAAAAAAAAAAQAAAACAAIAEAAAAJAAAAAQAA=</HashCode>
+      <FileName>GraphManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVertex">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAACQIAAAAQAAAACQAAAAAAQAAAAAEJkAEQAQAA=</HashCode>
+      <FileName>Vertex.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
